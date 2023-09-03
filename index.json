@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Out of Context",
+    "references": "ooc.json"
+  },
+  {
+    "name": "Pets",
+    "references": "pets.json"
+  },
+  {
+    "name": "Memes",
+    "references": "memes.json"
+  }
+]
